@@ -1,0 +1,16 @@
+{
+  "name": "selektor",
+  "version": "1.0.0",
+  "description": "Get a selector to a dom element",
+  "main": "index.js",
+  "author": "Farhan Yahaya",
+  "scripts": {
+    "test": "jest"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.0.6",
+    "jsdoc": "^3.6.7",
+    "jsdom": "^16.6.0"
+  }
+}
