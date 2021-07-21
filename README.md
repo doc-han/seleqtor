@@ -1,9 +1,9 @@
-## Selektor
-Selektor is a simple javascript function that generates a perfect selector a DOM element passed to it.
+## Seleqtor
+Seleqtor is a simple javascript function that generates a perfect selector a DOM element passed to it.
 
 ## Function Definitiion
 ```javascript
-selektor(element: HTMLElement, closestId: Boolean);
+seleqtor(element: HTMLElement, closestId: Boolean);
 ```
 
 The function takes two arguments,

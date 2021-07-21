@@ -1,5 +1,5 @@
 {
-  "name": "selektor",
+  "name": "seleqtor",
   "version": "1.0.0",
   "description": "Get a selector to a dom element",
   "main": "index.js",
