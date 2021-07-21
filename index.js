@@ -107,6 +107,7 @@ const getPath = element => {
  */
 const getSelector = (element, closestId = true) => {
     if(!element) return false; // element is not set/found
+    if(!element.nodeType || element.nodeType !== 1) throw Error(`${element} is not an HTMLElement`);
     if (closestId) {
         return getId(element);
     } else {
